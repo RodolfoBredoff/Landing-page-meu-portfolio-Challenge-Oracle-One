@@ -87,14 +87,14 @@
   #skills-div div,
   #hobbies-div div {
     background-color: white;
-    height: 140px;
+    height: 180px;
   }
   #skills-div div img,
   #hobbies-div div img {
     position: relative;
     top: 6rem;
     left: 1rem;
-    height: 20%;
+    height: 30%;
     color: #2a7ae4;
   }
   #skills-div div p,
@@ -351,19 +351,19 @@
   #skills-div {
     padding: 1rem 0rem;
     display: grid;
-    grid-template-columns: 30% 30% 30%;
+    grid-template-columns: 40% 40% 40%;
     row-gap: 2rem;
     justify-content: space-between;
   }
   #skills-div div,
   #hobbies-div div {
     background-color: white;
-    height: 170px;
+    height: 190px;
   }
   #skills-div div img,
   #hobbies-div div img {
     position: relative;
-    top: 6rem;
+    top: 9rem;
     left: 1rem;
   }
   #skills-div div p,
